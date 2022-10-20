@@ -1,0 +1,12 @@
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\bin\Debug\net6.0\SimulationLogic.deps.json
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\bin\Debug\net6.0\SimulationLogic.dll
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\bin\Debug\net6.0\SimulationLogic.pdb
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\obj\Debug\net6.0\SimulationLogic.csproj.AssemblyReference.cache
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\obj\Debug\net6.0\SimulationLogic.GeneratedMSBuildEditorConfig.editorconfig
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\obj\Debug\net6.0\SimulationLogic.AssemblyInfoInputs.cache
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\obj\Debug\net6.0\SimulationLogic.AssemblyInfo.cs
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\obj\Debug\net6.0\SimulationLogic.csproj.CoreCompileInputs.cache
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\obj\Debug\net6.0\SimulationLogic.dll
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\obj\Debug\net6.0\refint\SimulationLogic.dll
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\obj\Debug\net6.0\SimulationLogic.pdb
+F:\DataFundimentals\Project4\csci-2210-proj4-Alencea-main\SimulationLogic\obj\Debug\net6.0\ref\SimulationLogic.dll
